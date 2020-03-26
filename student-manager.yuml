@@ -1,0 +1,1 @@
+<img src="http://yuml.me/diagram/plain/usecase/[Customer]-(Sign In), [Customer]-(Buy Products), (Buy Products)>(Checkout), (Checkout)<(Add New Credit Card), (Buy Producs)>(Browse Products), [Office Staff]-(Process Order)">
